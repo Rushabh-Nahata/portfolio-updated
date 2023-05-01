@@ -155,7 +155,7 @@
 
 @media screen and (max-width: 480px) {
   #skills {
-    height: 135vh;
+    height: 105vh;
     padding: 1rem 2rem 11rem 2rem;
     margin: 0;
   }

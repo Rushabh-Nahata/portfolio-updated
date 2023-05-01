@@ -41,13 +41,13 @@ p {
   margin-top: 10px;
 }
 /* media Query */
-@media screen and (max-width: 400px) {
+@media screen and (max-width: 480px) {
   #education {
     text-align: center;
     /* margin: 200px 0; */
     width: 100%;
     background-color: rgb(246, 252, 252);
-    height: 95vh;
+    height: 70vh;
   }
 
   #education h2 {
