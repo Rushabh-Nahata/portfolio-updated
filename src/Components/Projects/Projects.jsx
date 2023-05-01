@@ -1,11 +1,11 @@
 import React from "react";
 import "../../Components/Projects/projectss.css"
-import Carousell from "../Carousell";
+import CarousellNew from "../CarousellNew";
 const Projects = () => {
   return (
     <div id="projects">
         <h2>My Projects</h2>
-      <Carousell/>
+      <CarousellNew/>
     </div>
   );
 };

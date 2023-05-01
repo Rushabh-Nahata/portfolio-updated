@@ -20,11 +20,24 @@
 .f-icons {
   
   display: flex;
-  gap: 2rem;
+  gap: 3rem;
 }
 
 @media screen and (max-width: 480px){
   .f-content{
     transform: scale(.5);
   }
+
+  .f-content {
+  position: absolute;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  width: 100%;
+  font-size: 30px;
+  margin-top: 4rem;
+  gap: 2rem;
+  color: white;
+}
 }

@@ -46,7 +46,7 @@ const Skills = () => {
             emoji={HeartEmoji}
            
             heading={"Front-End Developer"}
-            detail={"Html, Css, JavaScript, React, MySQL, MongoBD,XML"}
+            detail={"Html5, Css3, JavaScript, React, MySQL, MongoBD,XML"}
           
           />
         </motion.div>
